@@ -8,7 +8,7 @@
   </p>
   
   Tech Stack <br>
-  ⚡main <br>
+  :triangular_flag_on_post: main <br>
   <p>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
@@ -26,9 +26,13 @@
     <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
     <img src="https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"/>
   </p>
-  study log <br>
   
+  <p align="center">
+  study log <br>
+    
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=icnwpe)](https://velog.io/@icnwpe) 
+  </p>
+    
   
   <p>
     22.09 ~ 22.12 일정관리 웹 어플리케이션 Planchor 프론트 개발<br>
