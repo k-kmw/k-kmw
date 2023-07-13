@@ -28,10 +28,13 @@
   </p>
   
   <p align="center">
-  study log <br>
+  :pencil2: study log <br>
+  </p>
+  <p align="center">
     
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=icnwpe)](https://velog.io/@icnwpe) 
   </p>
+ 
     
   
   <p>
