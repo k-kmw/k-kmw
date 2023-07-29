@@ -28,7 +28,7 @@
   </p>
   
   <p align="center">
-  :pencil2: study log <br>
+  :pencil2: study <br>
   </p>
   <p align="center">
     
