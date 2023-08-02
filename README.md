@@ -34,8 +34,7 @@
     
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=icnwpe)](https://velog.io/@icnwpe) 
   </p>
- 
-    
+
   
   <p>
     22.09 ~ 22.12 일정관리 웹 어플리케이션 Planchor 프론트 개발<br>
@@ -43,12 +42,11 @@
     23.03 ~ 외국인 유학생을 위한 관광 서비스 Photour 백엔드 개발 <br>
     https://github.com/ApptiveDev/apptive-18th-friendly-backend
   </p>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-kmw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+  <br>
   
   [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmw)](https://solved.ac/kmw)
-  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-kmw&show_icons=true&theme=radical)
   
 </div>
