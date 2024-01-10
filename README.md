@@ -4,6 +4,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&height=80)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&color=6994CDEE&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=KMW's%20Github)](https://git.io/typing-svg)
 
+
 <p align="center">
     <a href="https://k-kmw.tistory.com/">
         <img src="http://img.shields.io/badge/-Tech%20blog-orange?style=flat-square&logo=tistory&link=https://k-kmw.tistory.com/"/>
@@ -15,9 +16,9 @@
 |:--------:|:--------:|:--------:|:--------:|:--------:|
 | Education | Bachelor's Degree in CSE | 2018.02 ~ 2024.02 | grade: 4.16/4.5 | Pusan National University |
 | Hackathon | 제 1회 앞마당 해커톤 | 2022.08.13 ~ 2022.08.14 | 웹 프론트엔드<br>개발 | GDSC&DND |
-| Team Project | [일정관리 웹 어플리케이션(Planchor)](https://github.com/ApptiveDev/apptive-17th-team3-fullstack) | 2022.09 ~ 2022.12 | 웹 프론트엔드<br>개발 | APPTIVE |
-| Team Project | [외국인 유학생을 위한 관광 서비스(Photour)](https://github.com/ApptiveDev/apptive-18th-friendly-backend) | 2023.03 ~ 2023.09 | **백엔드 개발** | APPTIVE |
-| Capstone Design | [경량화 플랫폼 Jetson을 활용한 버스 내부 모니터링 시스템](https://github.com/pnucse-capstone/capstone-2023-1-26) | 2023.04 ~ 2023.11 | 실시간 버스 모니터링 시스템<br>설계 및 개발 | Pusan National University |
+| Team Project | [일정관리 웹 어플리케이션 (Planchor)](https://github.com/ApptiveDev/apptive-17th-team3-fullstack) | 2022.09 ~ 2022.12 | 웹 프론트엔드<br>개발 | APPTIVE |
+| Team Project | [외국인 유학생을 위한 관광 서비스 (Photour)](https://github.com/ApptiveDev/apptive-18th-friendly-backend) | 2023.03 ~ 2023.09 | **백엔드 개발** | APPTIVE |
+| Capstone Design | [경량화 플랫폼 Jetson을 활용한 버스 &nbsp;내부 모니터링 시스템](https://github.com/pnucse-capstone/capstone-2023-1-26) | 2023.04 ~ 2023.11 | 실시간 버스 모니터링 시스템<br>설계 및 개발 | Pusan National University |
 | Paper | 경량화 플랫폼 Jetson을 활용한 버스 내부<br>모니터링 시스템 | 2023.10 ~ 2023.11 | 연구 및 논문 작성 | UCWIT |
 
 <br>
