@@ -26,14 +26,10 @@ Domain Driven Design
 | Capstone Design | [경량화 플랫폼 Jetson을 활용한 버스 &nbsp;내부 모니터링 시스템](https://github.com/pnucse-capstone/capstone-2023-1-26) | 2023.04 ~ 2023.11 | 실시간 버스 모니터링 시스템<br>설계 및 개발 | Pusan National University |
 | Paper | 경량화 플랫폼 Jetson을 활용한 버스 &nbsp;내부 모니터링 시스템 | 2023.10 ~ 2023.11 | 연구 및 논문 작성 | UCWIT |
 
-<br>
-
 ## :trophy: Prize :trophy:
 | **Content** | **Subject** | **Date** | **Activity** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
 |2023 관광데이터 활용 공모전 우수상| [외국인 유학생을 위한 관광 서비스(Photour)](https://github.com/ApptiveDev/apptive-18th-friendly-backend) | 2023.03 ~ 2023.09 | **백엔드<br>개발** | 한국관광공사&카카오 |
-
-<br>
 
 ## 🧩 Stacks 🧩
   ### :triangular_flag_on_post: main <br>
@@ -59,8 +55,7 @@ Domain Driven Design
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   </p>
-  <br>
-
+  
 ## 🪪 Certificate
 TOEIC SPEAKING: IH
 
