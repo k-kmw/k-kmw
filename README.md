@@ -11,6 +11,11 @@
     </a>
 </p>
 
+## 📚 Interested In
+Clean Code<br>
+Domain Driven Design
+
+
 ## 👨‍💻 Experience 
 | **Type** | **Title** | **Date** | **Activity** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
