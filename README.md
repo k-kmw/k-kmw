@@ -24,6 +24,7 @@ Domain Driven Design
 | Team Project | [일정관리 웹 어플리케이션 (Planchor)](https://github.com/ApptiveDev/apptive-17th-team3-fullstack) | 2022.09 ~ 2022.12 | 웹 프론트엔드<br>개발 | APPTIVE |
 | Team Project | [외국인 유학생을 위한 관광 서비스 (Photour)](https://github.com/ApptiveDev/apptive-18th-friendly-backend) | 2023.03 ~ 2023.09 | **백엔드 개발** | APPTIVE |
 | Capstone Design | [경량화 플랫폼 Jetson을 활용한 버스 &nbsp;내부 모니터링 시스템](https://github.com/pnucse-capstone/capstone-2023-1-26) | 2023.04 ~ 2023.11 | 실시간 버스 모니터링 시스템<br>설계 및 개발 | Pusan National University |
+| Boot Camp | 교내 백엔드 미니 부트캠프 | 2023.09 ~ 2023.12 | **Java, Spring 기반 백엔드 지식 및 CI/CD 구축 학습** | Pusan National University |
 | Paper | 경량화 플랫폼 Jetson을 활용한 버스 &nbsp;내부 모니터링 시스템 | 2023.10 ~ 2023.11 | 연구 및 논문 작성 | UCWIT |
 
 ## :trophy: Prize :trophy:
