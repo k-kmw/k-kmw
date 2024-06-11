@@ -25,7 +25,7 @@ Domain Driven Design
 | Team Project | [외국인 유학생을 위한 관광 서비스 (Photour)](https://github.com/ApptiveDev/apptive-18th-friendly-backend) | 2023.03 ~ 2023.09 | **백엔드 개발** | APPTIVE |
 | Capstone Design | [경량화 플랫폼 Jetson을 활용한 버스 &nbsp;내부 모니터링 시스템](https://github.com/pnucse-capstone/capstone-2023-1-26) | 2023.04 ~ 2023.11 | 실시간 버스 모니터링 시스템<br>설계 및 개발 | Pusan National University |
 | Boot Camp | 교내 백엔드 미니 부트캠프 | 2023.09 ~ 2023.12 | **Java, Spring 기반 백엔드 지식 및 CI/CD 구축 학습** | Pusan National University |
-| Paper | 경량화 플랫폼 Jetson을 활용한 버스 &nbsp;내부 모니터링 시스템 | 2023.10 ~ 2023.11 | 연구 및 논문 작성 | UCWIT |
+| Paper | [경량화 플랫폼 Jetson을 활용한 버스 &nbsp;내부 모니터링 시스템](https://www.ntis.go.kr/ThSearchResultPaperList.do?searchCategory=rpaper&encodingSearchWord=%25EA%25B2%25BD%25EB%259F%2589%25ED%2599%2594&oldSearchWord=%EA%B2%BD%EB%9F%89%ED%99%94&encodingOldSearchWord=%25EA%25B2%25BD%25EB%259F%2589%25ED%2599%2594&resultSearchValue=&fileSearchYn=&sort=SS01%2FDESC&ntisYn=&dbt=&init=&cordisKakenYn=&is01=&originalSearchWord=%EA%B2%BD%EB%9F%89%ED%99%94&originalSearchGubun=&technologyClassification=&directorySearchYear=&directorySearchOption1=&directorySearchOption2=&directorySearchOption3=&searchWord=%EA%B2%BD%EB%9F%89%ED%99%94+%ED%94%8C%EB%9E%AB%ED%8F%BC+Jetson+TX2%EB%A5%BC+%ED%99%9C%EC%9A%A9%ED%95%9C+YOLOv5+%EB%B0%8F++DeepSORT+%EA%B8%B0%EB%B0%98+%EB%B2%84%EC%8A%A4+%EB%82%B4%EB%B6%80+%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81+%EC%8B%9C%EC%8A%A4%ED%85%9C+%EA%B5%AC%ED%98%84) | 2023.10 ~ 2023.11 | 연구 및 논문 작성 | UCWIT |
 
 ## :trophy: Prize :trophy:
 | **Content** | **Subject** | **Date** | **Activity** | **Organization** |
