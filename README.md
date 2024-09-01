@@ -31,8 +31,8 @@ Domain Driven Design
 ## :trophy: Prize :trophy:
 | **Content** | **Subject** | **Date** | **Activity** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
-|2023 관광데이터 활용 공모전 우수상| [외국인 유학생을 위한 관광 서비스(Photour)](https://github.com/ApptiveDev/apptive-18th-friendly-backend) | 2023.03 ~ 2023.09 | **백엔드<br>개발** | 한국관광공사&카카오 |
 | SSAFY 11기 공통 프로젝트 우수상 | [프로그래밍을 게임처럼 즐기는, <br> 실시간 참여형 학습 플랫폼 <br> (Street Coding Fighter)](https://github.com/k-kmw/Street-Coding-Fighter) | 2024.07 ~ 2024.08 | **백엔드 팀장 <br> 백엔드 설계 / 개발** | 삼성전자 주식회사
+|2023 관광데이터 활용 공모전 우수상| [외국인 유학생을 위한 관광 서비스(Photour)](https://github.com/ApptiveDev/apptive-18th-friendly-backend) | 2023.03 ~ 2023.09 | **백엔드<br>개발** | 한국관광공사&카카오 |
 
 ## 🧩 Stacks 
 
