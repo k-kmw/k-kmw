@@ -50,7 +50,6 @@ Domain Driven Design
   ![Java](https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white)
   ![Spring](https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
   ![Spring Security](https://img.shields.io/badge/spring_security-6DB33F?style=flat-square&logo=spring_security&logoColor=white)
-  ![Django](https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white)
   ![Web Socket](https://img.shields.io/badge/Web%20Socket-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
 **Infra**
@@ -69,7 +68,6 @@ Domain Driven Design
   ![GitLab](https://img.shields.io/badge/gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)
   ![Jira](https://img.shields.io/badge/jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-  ![Notion](https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white)
   
 ## 📋 Certificate
 삼성 S/W 역량테스트 B형(Professional) <br>
